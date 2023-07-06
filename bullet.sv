@@ -1,7 +1,7 @@
 //-------------------------------------------------------------------------
 //    bullet.sv                                                            
 //    based on the ball.sv provided in lab6
-//    edited by JS
+//    edited by CC and JS
 //    used for ECE 385fFA22 final project
 //    2022/11/25
 //-------------------------------------------------------------------------
